@@ -10,11 +10,11 @@ I specialize in backend systems built with **Go** and **Python**, modern fronten
 
 ## 💼 What I’ve Worked On
 
-- 🟢 Modernized a legacy waitlist system at Topgolf by leading the transition from a C#/WPF desktop app to a responsive Vue.js front end
-- ⚙️ Designed and implemented scalable APIs using Go and Python, with OpenAPI docs for smooth cross-team onboarding
-- 🤖 Piloted GenAI-assisted dev practices: test generation, smarter code reviews, and knowledge capture
-- 📲 Integrated Apple Wallet into a high-throughput loyalty platform at NCR, boosting mobile engagement
-- 🤝 Mentored junior devs through pair programming, architecture discussions, and debugging marathons
+- 🟢 Modernized a legacy waitlist system at Topgolf by leading the transition from a C#/WPF desktop app to a responsive Vue.js front end  
+- ⚙️ Designed and implemented scalable APIs using Go and Python, with OpenAPI docs for smooth cross-team onboarding  
+- 🤖 Piloted GenAI-assisted dev practices: test generation, smarter code reviews, and knowledge capture  
+- 📲 Integrated Apple Wallet into a high-throughput loyalty platform at NCR, boosting mobile engagement  
+- 🤝 Mentored junior devs through pair programming, architecture discussions, and debugging marathons  
 
 ---
 
@@ -24,18 +24,18 @@ I specialize in backend systems built with **Go** and **Python**, modern fronten
 
 A privacy-first smart home voice assistant designed to run entirely offline:
 
-- ESP32-based hardware pucks with wake word detection (Edge Impulse)
-- Real-time audio streaming over gRPC to a local hub
-- Whisper.cpp for STT and Llama 3 (via Ollama) for intent parsing
-- Event-driven architecture with NATS and modular Dockerized services
-- Roadmap: Zigbee/HomeKit integration, conversation memory, and ESP32 firmware
+- ESP32-based hardware pucks with wake word detection (Edge Impulse)  
+- Real-time audio streaming over gRPC to a local hub  
+- Whisper.cpp for STT and Llama 3 (via Ollama) for intent parsing  
+- Event-driven architecture with NATS and modular Dockerized services  
+- Roadmap: Zigbee/HomeKit integration, conversation memory, and ESP32 firmware  
 
 ### Other Interests
 
-- 🚗 Embedded systems for mobility: SDVs, CAN protocols, OpenPilot deep dives
-- 🧩 Clean service boundaries across cloud and edge
-- 🤖 Real-world agent behavior and AI-assisted dev workflows
-- 🐶 Miniature schnauzers (QA interns + bark-driven deployment alerts)
+- 🚗 Embedded systems for mobility: SDVs, CAN protocols, OpenPilot deep dives  
+- 🧩 Clean service boundaries across cloud and edge  
+- 🤖 Real-world agent behavior and AI-assisted dev workflows  
+- 🐶 Miniature schnauzers (QA interns + bark-driven deployment alerts)  
 
 ---
 
@@ -52,7 +52,7 @@ A privacy-first smart home voice assistant designed to run entirely offline:
 
 ## 🤝 Let’s Connect
 
-I'm actively exploring **senior software engineering roles** — especially where backend systems meet **embedded platforms**, **voice interfaces**, or **applied AI**. Open to **fully remote** roles or **hybrid near Dallas, TX**.
+I'm actively exploring **senior software engineering roles** — especially where backend systems meet **embedded platforms**, **voice interfaces**, or **applied AI**. Currently targeting **fully remote** roles only.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/annabethbarnes)  
 📄 [Resume](https://www.linkedin.com/in/annabethbarnes/details/featured)  
