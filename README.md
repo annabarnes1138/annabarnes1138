@@ -1,39 +1,62 @@
-![github_banner](https://github.com/user-attachments/assets/f59b7bbc-58b0-462e-96b7-50ebdd434700)
+[![github_banner](https://github.com/user-attachments/assets/f59b7bbc-58b0-462e-96b7-50ebdd434700)](https://github.com/loqalabs/loqa)
 
 # Hi, I'm Anna Barnes 👋
 
 I'm a software engineer guided by **Code**, **Kindness**, and **Curiosity** — principles that shape how I build software, collaborate with others, and grow in my craft.
 
-I specialize in backend systems built with Go and Python, modern JavaScript frameworks like Vue.js, and system integrations that make real-world tools feel seamless. My superpower? Debugging the tricky stuff no one else wants to touch — especially across legacy boundaries, real-time systems, and distributed services.
+I specialize in backend systems built with **Go** and **Python**, modern frontends with **Vue.js**, and systems integration across real-time, legacy, and distributed environments. My superpower? **Debugging the stuff no one else wants to touch** — especially at the seams between hardware and software, or cloud and edge.
 
 ---
 
 ## 💼 What I’ve Worked On
 
 - 🟢 Modernized a legacy waitlist system at Topgolf by leading the transition from a C#/WPF desktop app to a responsive Vue.js front end
-- ⚙️ Designed and implemented scalable APIs using Go and Python, with OpenAPI documentation for smooth cross-team onboarding
-- 🧠 Pioneered AI-assisted dev practices: test generation, smarter code reviews, and documentation support
+- ⚙️ Designed and implemented scalable APIs using Go and Python, with OpenAPI docs for smooth cross-team onboarding
+- 🤖 Piloted GenAI-assisted dev practices: test generation, smarter code reviews, and knowledge capture
 - 📲 Integrated Apple Wallet into a high-throughput loyalty platform at NCR, boosting mobile engagement
-- 🤝 Mentored junior devs through pair programming, architecture reviews, and code quality conversations
+- 🤝 Mentored junior devs through pair programming, architecture discussions, and debugging marathons
 
 ---
 
 ## 🛠 What I’m Currently Exploring
 
-- 🔊 [Loqa](https://github.com/annabarnes1138/loqa-voice-assistant): a local-first voice assistant combining ESP32 hardware, real-time backend inference, and on-device wake word detection via Edge Impulse and PlatformIO
-- 🚗 Embedded systems and real-time software for mobility platforms (think SDVs, CAN protocols, and OpenPilot deep dives)
-- 🧩 Clean architecture and service boundaries across cloud and edge
-- 🤖 AI-assisted developer workflows and real-world agent behavior
-- 🐶 Miniature schnauzers (my unofficial QA team and emotional support engineers)
+### 🔊 [Loqa](https://github.com/loqalabs/loqa) — A Local-First Voice Assistant
+
+A privacy-first smart home voice assistant designed to run entirely offline:
+
+- ESP32-based hardware pucks with wake word detection (Edge Impulse)
+- Real-time audio streaming over gRPC to a local hub
+- Whisper.cpp for STT and Llama 3 (via Ollama) for intent parsing
+- Event-driven architecture with NATS and modular Dockerized services
+- Roadmap: Zigbee/HomeKit integration, conversation memory, and ESP32 firmware
+
+### Other Interests
+
+- 🚗 Embedded systems for mobility: SDVs, CAN protocols, OpenPilot deep dives
+- 🧩 Clean service boundaries across cloud and edge
+- 🤖 Real-world agent behavior and AI-assisted dev workflows
+- 🐶 Miniature schnauzers (QA interns + bark-driven deployment alerts)
+
+---
+
+## 🧠 Tech I Use
+
+![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/Docker-20.10+-2496ED?style=flat&logo=docker)
+![NATS](https://img.shields.io/badge/NATS-Messaging-3C873A?style=flat)
+![ESP32](https://img.shields.io/badge/ESP32-Platform-orange?style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=flat&logo=vuedotjs)
 
 ---
 
 ## 🤝 Let’s Connect
 
-I'm actively exploring mid-to-senior engineering roles — especially where backend systems meet embedded software, voice interfaces, or applied AI. Open to hybrid roles near Dallas or fully remote opportunities.
+I'm actively exploring **mid-to-senior software engineering roles** — especially where backend systems meet **embedded platforms**, **voice interfaces**, or **applied AI**. Open to **fully remote** roles or **hybrid near Dallas, TX**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/annabethbarnes)  
-💻 [My Resume](https://www.linkedin.com/in/annabethbarnes/details/featured)
+📄 [Resume](https://www.linkedin.com/in/annabethbarnes/details/featured)  
+🐙 [Loqa Repo](https://github.com/loqalabs/loqa)
 
-> “Code is how I contribute. Kindness is how I collaborate. Curiosity is how I grow.”  
+> *“Code is how I contribute. Kindness is how I collaborate. Curiosity is how I grow.”*  
 > — Anna Barnes
