@@ -52,7 +52,7 @@ A privacy-first smart home voice assistant designed to run entirely offline:
 
 ## 🤝 Let’s Connect
 
-I'm actively exploring **mid-to-senior software engineering roles** — especially where backend systems meet **embedded platforms**, **voice interfaces**, or **applied AI**. Open to **fully remote** roles or **hybrid near Dallas, TX**.
+I'm actively exploring **senior software engineering roles** — especially where backend systems meet **embedded platforms**, **voice interfaces**, or **applied AI**. Open to **fully remote** roles or **hybrid near Dallas, TX**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/annabethbarnes)  
 📄 [Resume](https://www.linkedin.com/in/annabethbarnes/details/featured)  
